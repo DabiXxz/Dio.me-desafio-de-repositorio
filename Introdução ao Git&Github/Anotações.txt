@@ -1,1 +1,11 @@
 Link de Download do Git: (https://git-scm.com/)
+
+==================Anotações====================
+-git status (ve o status da pasta)
+-git init (inicia o git na pasta)
+-git add . (para adicionar no gitHub)
+-git commit -m "Inclusão das anotações"
+-git commit
+-git push origin main (adiciona no gitHub as alterações)
+-git clone "https://git-scm.com/" (ele clona o repositorio na maquina)
+-
